@@ -1,1 +1,6 @@
-
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false
+    fetch-registry: false
