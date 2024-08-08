@@ -1,3 +1,10 @@
+server:
+  port: 8089
+
+spring:
+  application:
+    name: department-service
+
 eureka:
   instance:
     hostname: localhost
